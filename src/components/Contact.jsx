@@ -49,9 +49,7 @@ export default function ContactForm() {
           </button>
 
           <p className="mt-2 text-xs text-gray-900">
-            By choosing to confirm, you consent to share your Ola TR & Purchase
-            status with our Brand Champion and to receive calls with regard to
-            your booked experience centre visit.
+            By choosing to confirm, Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos ad laborum eaque placeat officia aut sit est distinctio adipisci porro.
           </p>
         </form>
       </div>
