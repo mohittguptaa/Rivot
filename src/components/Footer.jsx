@@ -16,7 +16,7 @@ function Footer() {
           {/* Left Section */}
           <div className="w-full mb-8 md:w-1/3 md:mb-0">
             <h2 className="text-xl font-semibold text-gray-900">
-              RIVOT MOTERS
+              RIVOT MOTORS
             </h2>
             <p className="mt-2 text-gray-500">
               Lorem, ipsum dolor sit amet consectetur adipisicing elit.
@@ -210,7 +210,7 @@ function Footer() {
 
         <div className="flex flex-wrap items-center justify-evenly">
           <p className="text-sm text-gray-500">
-            Copyright © 2024 Rivot Moters Pvt Ltd. All rights reserved.
+            Copyright © 2024 Rivot Motors Pvt Ltd. All rights reserved.
           </p>
         </div>
       </div>
