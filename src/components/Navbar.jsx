@@ -12,7 +12,7 @@ export default function Navbar() {
           <Link to="/" className="flex items-center gap-2 no-underline">
             <img className="w-10 h-10" src={Logo} alt="logo" />
             <h1 className="mt-2 text-base font-bold text-black no-underline">
-              RIVOT MOTERS
+              RIVOT MOTORS
             </h1>
           </Link>
           <div className="hidden space-x-4 md:flex">
